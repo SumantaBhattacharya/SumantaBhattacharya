@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning DSA in JAVA.
 - 📫 How to reach me: via email sumanta2004@gmail.com
 
@@ -15,5 +15,11 @@ My favorite colors are black ⚫ and white ⚪
 
 Your Friendly Neighborhood Spider-Man 🕷️🕸️🕺 
 
+Let's play game together 
+Main Account
+-[Steam](https://steamcommunity.com/id/sudbha98/) 
+Smurf Account
+   -[Smurf Account](https://steamcommunity.com/id/Sudip2017)
+   
 My Collection ❤
 ![My Collection](https://i.pinimg.com/736x/99/fd/a3/99fda30e7ff7f8aa3a3b2f8da9dacb70.jpg)
