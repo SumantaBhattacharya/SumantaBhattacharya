@@ -6,16 +6,17 @@
 <!--
 Here are some ideas to get you started:
 -->
-### What I do
+### What I do 👨🏻‍💻
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning DSA in JAVA.
 
-#### What I do outside of my work
+#### What I do outside of my work 
 - I follow Blue Lock chapter discussions — it’s kind of my hobby these days.
-- Currently following Gachiakuta, MHA, and OPM weekly xD
+- Currently following Gachiakuta, MHA weekly xD
   
 - 📫 How to reach me: via email sumanta2004@gmail.com
 
+Fun Fact 💡
 My favorite colors are black ⚫ and white ⚪
 
 Your Friendly Neighborhood Spider-Man 🕷️🕸️🕺 
