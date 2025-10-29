@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - I follow Blue Lock chapter discussions — it’s kind of my hobby these days.
 - Currently following Gachiakuta, MHA weekly xD
   
-- 📫 How to reach me: via email sumanta2004@gmail.com
+📫 How to reach me: via email sumanta2004@gmail.com
 
 Fun Fact 💡
 My favorite colors are black ⚫ and white ⚪
