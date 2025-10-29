@@ -21,7 +21,7 @@ Main Account
    - [Main Account](https://steamcommunity.com/id/sudbha98/)
      
 Smurf Account
-   -[Smurf Account](https://steamcommunity.com/id/Sudip2017)
+   - [Smurf Account](https://steamcommunity.com/id/Sudip2017)
    
 My Collection ❤
 ![My Collection](https://i.pinimg.com/736x/99/fd/a3/99fda30e7ff7f8aa3a3b2f8da9dacb70.jpg)
