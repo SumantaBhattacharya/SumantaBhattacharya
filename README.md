@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 ### What I do 👨🏻‍💻
 - 🔭 I’m currently working on MERN Stack Projects
 - 🌱 I’m currently learning DSA in JAVA.
-
+<!--
 #### What I do outside of my work 
 - I follow Blue Lock chapter discussions — it’s kind of my hobby these days.
 - Currently following Gachiakuta, MHA weekly xD
-  
+-->
 📫 How to reach me: via email sumanta2004@gmail.com
 
 Fun Fact 💡
@@ -21,7 +21,7 @@ Fun Fact 💡
 My favorite colors are black ⚫ and white ⚪
 
 Your Friendly Neighborhood Spider-Man 🕷️🕸️🕺 
-
+<!--
 ##### Let's play game together 
 
 Main Account
@@ -34,3 +34,4 @@ Smurf Account
    
 My Collection ❤
 ![My Collection](https://i.pinimg.com/736x/99/fd/a3/99fda30e7ff7f8aa3a3b2f8da9dacb70.jpg)
+-->
