@@ -16,11 +16,17 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: via email sumanta2004@gmail.com
 
+ACHIEVEMENTS
+➤ Certification in CORE JAVA from IISER
+➤ Certification in Delta (Full Stack Web Development) from Apna College
+
+<!--
 Fun Fact 💡
 
 My favorite colors are black ⚫ and white ⚪
 
 Your Friendly Neighborhood Spider-Man 🕷️🕸️🕺 
+-->
 <!--
 ##### Let's play game together 
 
