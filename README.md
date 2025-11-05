@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: via email sumanta2004@gmail.com
 
-ACHIEVEMENTS
-➤ Certification in CORE JAVA from IISER
-➤ Certification in Delta (Full Stack Web Development) from Apna College
+### ACHIEVEMENTS
+- Certification in CORE JAVA from IISER
+- Certification in Delta (Full Stack Web Development) from Apna College
 
 <!--
 Fun Fact 💡
