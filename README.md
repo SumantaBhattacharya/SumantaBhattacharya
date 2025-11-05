@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - Currently following Gachiakuta, MHA weekly xD
 -->
 📫 How to reach me: via email sumanta2004@gmail.com
-
+<!--
 ### Achievements
+-->
 - Certified in Core Java by IISER
 - Certified in Full Stack Web Development by Apna College
 
