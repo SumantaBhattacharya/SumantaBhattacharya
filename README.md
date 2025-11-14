@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 -->
 - Certified in Core Java by IISER
 - Certified in Full Stack Web Development by Apna College
-
+- Certified in Industrial Training Program in Full Stack Web Development by Euphoria GenX
+  
 <!--
 Fun Fact 💡
 
