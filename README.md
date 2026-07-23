@@ -1,45 +1,20 @@
-## Hi there 👋
+- # **About me** 
+  - *`I mostly work on MERN Stack Projects`*
+  - *`I have done DSA in Java`*
 
-<!--
-**SumantaBhattacharya/SumantaBhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
--->
-### What I do 👨🏻‍💻
-- 🔭 I’m currently working on MERN Stack Projects
-- 🌱 I’m currently learning DSA in JAVA.
-<!--
-#### What I do outside of my work 
-- I follow Blue Lock chapter discussions — it’s kind of my hobby these days.
-- Currently following Gachiakuta, MHA weekly xD
--->
-📫 How to reach me: via email sumanta2004@gmail.com
-<!--
-### Achievements
--->
-- Certified in Core Java by IISER
-- Certified in Full Stack Web Development by Apna College
-- Certified in Industrial Training Program in Full Stack Web Development by Euphoria GenX
-  
-<!--
-Fun Fact 💡
+- ## **Some of the Projects I have worked upon**
+  - [`Blog Application`](https://github.com/SumantaBhattacharya/finalyear-blog-application)
+  - [`URL-Shortner`](https://github.com/SumantaBhattacharya/MERN_P/tree/main/URL-Shortner)
+  - [`AI Chat Application`](https://github.com/SumantaBhattacharya/MERN_P/tree/main/chatGPT) 
 
-My favorite colors are black ⚫ and white ⚪
+- ## **Achievements**
+  - `Certified in Core Java by IISER`
+  - `Certified in Full Stack Web Development by Apna College`
+  - `Certified in Industrial Training Program in Full Stack Web Development by Euphoria GenX`
 
-Your Friendly Neighborhood Spider-Man 🕷️🕸️🕺 
--->
-<!--
-##### Let's play game together 
 
-Main Account
-   - [Main Steam Account](https://steamcommunity.com/id/sudbha98/)
-   - [Roblox](https://www.roblox.com/users/7269166586/profile)
-     
-Smurf Account
-   - [Smurf Steam Account](https://steamcommunity.com/id/Sudip2017)
-
-   
-My Collection ❤
-![My Collection](https://i.pinimg.com/736x/99/fd/a3/99fda30e7ff7f8aa3a3b2f8da9dacb70.jpg)
--->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
