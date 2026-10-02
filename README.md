@@ -1,4 +1,4 @@
-![https://media.licdn.com/dms/image/v2/D5616AQEwTEpvM2TT9Q/profile-displaybackgroundimage-shrink_200_800/B56ZjHLTZPG4AY-/0/1755688320322?e=1790812800&v=beta&t=v5h0UzuiuhGRP1Qq97KKfvZvEvfdm0J90WJsnR11Gls](https://media.licdn.com/dms/image/v2/D5616AQEwTEpvM2TT9Q/profile-displaybackgroundimage-shrink_200_800/B56ZjHLTZPG4AY-/0/1755688320322?e=1790812800&v=beta&t=v5h0UzuiuhGRP1Qq97KKfvZvEvfdm0J90WJsnR11Gls)
+![https://media.licdn.com/dms/image/v2/D5616AQEwTEpvM2TT9Q/profile-displaybackgroundimage-shrink_350_1400/B56ZjHLTZPG4Ac-/0/1755688320322?e=1792627200&v=beta&t=sQ_mlIQqZPNIc3S5dvfRuSPBMuNLgV6FDFMIAZFSTZ8](https://media.licdn.com/dms/image/v2/D5616AQEwTEpvM2TT9Q/profile-displaybackgroundimage-shrink_350_1400/B56ZjHLTZPG4Ac-/0/1755688320322?e=1792627200&v=beta&t=sQ_mlIQqZPNIc3S5dvfRuSPBMuNLgV6FDFMIAZFSTZ8)
 
 - # **About me** 
   - *`I mostly work on MERN Stack Projects`*
