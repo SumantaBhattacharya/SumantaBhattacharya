@@ -10,7 +10,7 @@
   - [`AI Chat Application`](https://github.com/SumantaBhattacharya/MERN_P/tree/main/chatGPT) 
 
 - ## **Achievements**
-  - [`Certified in Core Java by IISER`](https://media.licdn.com/dms/image/v2/D5622AQG0toYvg3xQwQ/feedshare-shrink_800/feedshare-shrink_800/0/1724596438680?e=1792627200&v=beta&t=EaKRwZ-vrNn1JTRmQ1tEQSIAjGANTdymdboteP76KbU)
+  - [`Certified in Core Java by IISER`](https://raw.githubusercontent.com/SumantaBhattacharya/JAVA/refs/heads/main/image.png)
   - [`Certified in Full Stack Web Development by Apna College`](https://github.com/SumantaBhattacharya/DELTA-REACT/blob/main/ApnaCollege-CertificateOfCompletion.jpeg?raw=true)
   - `Certified in Industrial Training Program in Full Stack Web Development by Euphoria GenX`
 
